@@ -23,7 +23,7 @@ Model: ANN (2 hidden layers, ReLU, dropout, sigmoid output)
 
 ## 🏅 Author
 
-Shreeyansh Asati
+Shreeyansh Asati 
 
 ## 📁 Files
 - `Human_Stress_Detection.ipynb` — main notebook
