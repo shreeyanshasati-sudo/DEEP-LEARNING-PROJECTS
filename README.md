@@ -15,13 +15,13 @@ This project predicts human stress levels based on health and lifestyle data usi
 ## 📊 Tech Stack
 Python | TensorFlow | Scikit-Learn | Pandas | Matplotlib | Seaborn
 
-📈 Model Performance
+## 📈 Model Performance
 
 Accuracy: 85%
 
 Model: ANN (2 hidden layers, ReLU, dropout, sigmoid output)
 
-🏅 Author
+## 🏅 Author
 
 Shreeyansh Asati
 
