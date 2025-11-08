@@ -15,6 +15,16 @@ This project predicts human stress levels based on health and lifestyle data usi
 ## 📊 Tech Stack
 Python | TensorFlow | Scikit-Learn | Pandas | Matplotlib | Seaborn
 
+📈 Model Performance
+
+Accuracy: 85%
+
+Model: ANN (2 hidden layers, ReLU, dropout, sigmoid output)
+
+🏅 Author
+
+Shreeyansh Asati
+
 ## 📁 Files
 - `Human_Stress_Detection.ipynb` — main notebook
 - `extended_stress_detection_data.csv` — sample dataset
